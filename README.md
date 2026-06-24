@@ -1,5 +1,7 @@
 # Cisco Secure Workload — Customer Personas & Engagement Playbook
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=chandrapati.CSW-Personas&left_text=visitors)
+
 **Who you actually meet in a Cisco Secure Workload (CSW) deal — and how to win each of them.**
 
 > **Disclaimer:** This repository is **not** official Cisco product documentation, and it is **not** legal, audit, or insurance/underwriting advice. It is a vendor-neutral **field enablement** aid for Cisco SEs/SAs, account teams, and partners — and a structure customers can reuse internally — to identify segmentation stakeholders, tailor the message, and run a cleaner discovery and POV. Validate all product claims against your tenant's in-product documentation and Cisco Secure Workload product documentation before production decisions.
